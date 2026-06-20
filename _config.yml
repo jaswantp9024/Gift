@@ -1,0 +1,21 @@
+# GitHub Pages Jekyll Configuration
+title: Gift
+description: A beautiful web application with HTML, SCSS, and JavaScript
+theme: jekyll-theme-cayman
+
+# GitHub Pages settings
+url: https://jaswantp9024.github.io/Gift
+baseurl: /Gift
+
+# Markdown settings
+markdown: kramdown
+
+# Collections
+collections: []
+
+# Exclude files from GitHub Pages build
+exclude:
+  - README.md
+  - LICENSE
+  - .gitignore
+  - .github/
